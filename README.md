@@ -6,5 +6,5 @@
 <p align="center">
   🌐 <a href="https://issaghostlife.xyz">issaghostlife.xyz</a> •
   💻 <a href="https://github.com/issaghostlife">GitHub</a> •
-  💬 <a href="https://discord.gg/Z4CkVu38nM">Discord Community</a>
+  💬 <a href="https://discord.gg/J5KQ6rqZeP">Discord Community</a>
 </p>
